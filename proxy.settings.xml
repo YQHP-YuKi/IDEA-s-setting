@@ -1,0 +1,11 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="PROXY_HOST" value="hk38.as9929.com" />
+    <option name="PROXY_PORT" value="46032" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+    <option name="PROXY_EXCEPTIONS" value="rc4-md5" />
+    <option name="USE_PAC_URL" value="true" />
+  </component>
+</application>
