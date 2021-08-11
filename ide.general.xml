@@ -7,7 +7,6 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="mac.editor.thumb.default.alpha.base" value="0" />
     <entry key="mac.editor.thumb.default.alpha.delta" value="102" />
@@ -21,5 +20,6 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="js.debugger.webconsole" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
 </application>
